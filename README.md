@@ -1,1 +1,2 @@
 # Handwritten-Digit-Recognition
+This project implements a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. The model is built using TensorFlow and Keras, and it achieves high accuracy by training on the preprocessed MNIST dataset. The network architecture follows a LeNet-inspired design with convolutional layers, pooling layers, and fully connected layers. The model is trained for 10 epochs and evaluated on a test set, achieving robust performance in recognizing digits from 0 to 9.
